@@ -4,6 +4,7 @@ import Calendar from './pages/Calendar';
 import Analytics from './pages/Analytics';
 import Profile from './pages/Profile';
 import __Layout from './Layout.jsx';
+import Login from './pages/Login';
 
 
 export const PAGES = {
@@ -12,6 +13,7 @@ export const PAGES = {
     "Calendar": Calendar,
     "Analytics": Analytics,
     "Profile": Profile,
+    "Login": Login,
 }
 
 export const pagesConfig = {
